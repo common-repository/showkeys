@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-03 10:16+0100\n"
+"PO-Revision-Date: 2022-03-03 10:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/SKEYCore.php:165 lib/SKEYCore.php:178 lib/SKEYCore.php:184
+msgid "Key"
+msgstr ""
+
+#: lib/constants.php:17
+msgid "Short DE"
+msgstr ""
+
+#: lib/constants.php:18
+msgid "Short EN"
+msgstr ""
+
+#: lib/constants.php:19
+msgid "Long DE"
+msgstr ""
+
+#: lib/constants.php:20
+msgid "Long EN"
+msgstr ""
+
+#: lib/constants.php:29
+msgid "Light"
+msgstr ""
+
+#: lib/constants.php:30
+msgid "Dark"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:35
+msgid "Settings saved"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:60
+msgid "Settings"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:77
+#: templates/admin_options_page_skeys.php:163
+#: templates/admin_options_page_skeys.php:175
+#: templates/admin_options_page_skeys.php:187
+#: templates/admin_options_page_skeys.php:199
+msgid "Output"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:82
+msgid "Layout"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:99
+msgid ""
+"Specifies whether the keys are output in short form or in long form in a "
+"specific language (DE = German, EN = English)."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:103
+msgid "Style"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:119
+msgid "Determines the basic look either bright or dark."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:123
+msgid "Separator symbol"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:127
+msgid "With this symbol you separate the keys in the shortcode."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:128
+#: templates/admin_options_page_skeys.php:161
+#: templates/admin_options_page_skeys.php:173
+#: templates/admin_options_page_skeys.php:185
+#: templates/admin_options_page_skeys.php:197
+msgid "Example"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:129
+msgid ""
+"Caution: if you change this separator symbol, this also applies to all "
+"previously created shortcodes."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:134
+msgid "Extended"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:139
+#: templates/admin_options_page_skeys.php:141
+msgid "Reset settings"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:142
+msgid "Here you can reset all settings to the factory settings."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:152
+msgid "Help"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:157
+msgid "Simple output"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:159
+msgid "Here you can see how to issue a single key."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:169
+msgid "Multiple output"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:171
+msgid "Here you can see how to issue a key combination, i.e. several keys."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:181
+msgid "Explicit Exceptions"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:183
+msgid ""
+"If you want the exact characters you specify to be output, then just add"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:183
+msgid ""
+"in the shortcode and the automatic conversion will be disabled for that one "
+"shortcode output."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:193
+msgid "Other"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:195
+#: templates/admin_options_page_skeys.php:234
+msgid "If you"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:195
+msgid "but your separator symbol is \"+\", then you can choose the option"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:195
+msgid ""
+"to change the separator symbol to \"#\", or any other character, just for "
+"that shortcode output"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:209
+msgid "Info"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:214
+msgid "Version"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:216
+msgid "Release notes"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:216
+msgid "release notes"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:220
+#: templates/admin_options_page_skeys.php:222
+msgid "Website"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:226
+#: templates/admin_options_page_skeys.php:228
+msgid "on GitHub"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:233
+msgid ""
+"Do you have suggestions for improvement or suggestions for the plugin, then "
+"write me"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:234
+msgid "like, then write a"
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:234
+msgid "rating."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:234
+msgid "You would help me a lot to make the plugin known."
+msgstr ""
+
+#: templates/admin_options_page_skeys.php:239
+msgid "Save"
+msgstr ""
